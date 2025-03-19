@@ -2,7 +2,8 @@
 
 This document outlines the steps to set up and operate the TurtleBot 4, based on the official TurtleBot documentation, with some specific adjustments for network configuration.
 
-:Note: this is simple first commit
+> [!NOTE]
+> this is simple first commit
 
 ## Initial Setup
 
