@@ -16,7 +16,7 @@ This document outlines the steps to set up and operate the TurtleBot 4, based on
         ssh ubuntu@IP_ADDRESS
         ```
 
-        The default password is `turtlebot3`.
+        The default password is `turtlebot4`.
 
 2. **Wi-Fi Connection:** Access the TurtleBot 4's web interface by navigating to `IP_ADDRESS:8080` in your web browser.  Enter the required Wi-Fi details to connect the robot to your network.  This process may take some time.  Refer to the simple discovery documentation for more details: [https://turtlebot.github.io/turtlebot4-user-manual/setup/simple_discovery.html](https://turtlebot.github.io/turtlebot4-user-manual/setup/simple_discovery.html)
 
